@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/ReForm_README_Cover.svg" alt="ReForm — Waste, reborn" width="100%">
+</p>
+
 # ReForm — Waste, Reborn
 
 **AI for Climate · Circular Economy & Waste Reduction · COP31**
