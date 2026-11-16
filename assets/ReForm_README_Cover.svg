@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">ReForm — Waste, reborn</title><desc id="desc">AI for Climate circular economy project cover. Selected PLA waste becomes engineered filament and useful products.</desc>
+<defs>
+ <radialGradient id="bg" cx="72%" cy="42%" r="80%"><stop offset="0" stop-color="#103c2c"/><stop offset="1" stop-color="#061e17"/></radialGradient>
+ <linearGradient id="filament" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e4ff8b"/><stop offset=".45" stop-color="#b9ec55"/><stop offset="1" stop-color="#74b52c"/></linearGradient>
+ <linearGradient id="rim" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#456f5e"/><stop offset=".5" stop-color="#183e30"/><stop offset="1" stop-color="#0a261e"/></linearGradient>
+ <linearGradient id="spoolside" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#345c4c"/><stop offset=".5" stop-color="#173b2e"/><stop offset="1" stop-color="#09251d"/></linearGradient>
+ <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="24"/></filter>
+ <pattern id="coil" width="8" height="8" patternUnits="userSpaceOnUse"><path d="M0 1 H8" stroke="#e2ff9a" stroke-opacity=".45" stroke-width="1.6"/></pattern>
+</defs>
+<rect width="1600" height="900" fill="url(#bg)"/>
+<g opacity=".16" fill="none" stroke="#5d9c76">
+ <ellipse cx="1190" cy="440" rx="185" ry="115" stroke-width="1.2"/><ellipse cx="1190" cy="440" rx="195" ry="122" stroke-width="1.2"/><ellipse cx="1190" cy="440" rx="205" ry="129" stroke-width="1.2"/><ellipse cx="1190" cy="440" rx="215" ry="136" stroke-width="1.2"/><ellipse cx="1190" cy="440" rx="225" ry="143" stroke-width="1.2"/><ellipse cx="1190" cy="440" rx="235" ry="150" stroke-width="1.2"/><ellipse cx="1190" cy="440" rx="245" ry="157" stroke-width="1.2"/><ellipse cx="1190" cy="440" rx="255" ry="164" stroke-width="1.2"/><ellipse cx="1190" cy="440" rx="265" ry="171" stroke-width="1.2"/><ellipse cx="1190" cy="440" rx="275" ry="178" stroke-width="1.2"/><ellipse cx="1190" cy="440" rx="285" ry="185" stroke-width="1.2"/><ellipse cx="1190" cy="440" rx="295" ry="192" stroke-width="1.2"/><ellipse cx="1190" cy="440" rx="305" ry="199" stroke-width="1.2"/><ellipse cx="1190" cy="440" rx="315" ry="206" stroke-width="1.2"/><ellipse cx="1190" cy="440" rx="325" ry="213" stroke-width="1.2"/><ellipse cx="1190" cy="440" rx="335" ry="220" stroke-width="1.2"/><ellipse cx="1190" cy="440" rx="345" ry="227" stroke-width="1.2"/><ellipse cx="1190" cy="440" rx="355" ry="234" stroke-width="1.2"/><ellipse cx="1190" cy="440" rx="365" ry="241" stroke-width="1.2"/><ellipse cx="1190" cy="440" rx="375" ry="248" stroke-width="1.2"/><ellipse cx="1190" cy="440" rx="385" ry="255" stroke-width="1.2"/><ellipse cx="1190" cy="440" rx="395" ry="262" stroke-width="1.2"/><ellipse cx="1190" cy="440" rx="405" ry="269" stroke-width="1.2"/><ellipse cx="1190" cy="440" rx="415" ry="276" stroke-width="1.2"/><ellipse cx="1190" cy="440" rx="425" ry="283" stroke-width="1.2"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif">
+ <text x="82" y="94" fill="#c9f36a" font-size="17" font-weight="700" letter-spacing="5">AI FOR CLIMATE  /  CIRCULAR ECONOMY</text>
+ <rect x="1165" y="50" width="350" height="48" rx="20" fill="#28513e" opacity=".95"/>
+ <text x="1190" y="81" fill="#dcebdc" font-size="15" font-weight="700" letter-spacing="1.8">RESEARCH &amp; PILOT PROPOSAL</text>
+ <text x="82" y="355" fill="#f3f4e8" font-size="132" font-weight="700" letter-spacing="-5">ReForm</text>
+ <text x="86" y="432" fill="#c9f36a" font-size="43" font-weight="700">Waste, reborn.</text>
+ <text x="86" y="540" fill="#f3f4e8" font-size="31">Selected waste.</text>
+ <text x="86" y="598" fill="#f3f4e8" font-size="31">Engineered materials.</text>
+ <text x="86" y="656" fill="#f3f4e8" font-size="31">A useful next life.</text>
+ <text x="87" y="730" fill="#aab8a9" font-size="15" font-weight="700" letter-spacing="3">AI-ASSISTED REGENERATION OF 3D-PRINTING FILAMENT</text>
+ <text x="86" y="805" fill="#f3f4e8" font-size="19">Zhufeiyang  ·  ShiZhanran  ·  GuoYuzhe</text>
+ <text x="86" y="844" fill="#f3f4e8" font-size="19">WuXiaoyi  ·  YangXi</text>
+</g>
+<ellipse cx="1192" cy="758" rx="290" ry="52" fill="#000" opacity=".45" filter="url(#shadow)"/>
+<g transform="translate(870 210) rotate(-10 290 280)">
+ <!-- loose filament curl -->
+ <path d="M530 460 C640 435 660 505 602 548 C552 585 660 630 730 560" fill="none" stroke="#c9f36a" stroke-width="7" stroke-linecap="round"/>
+ <!-- spool lower flange -->
+ <ellipse cx="292" cy="535" rx="245" ry="76" fill="#061b15" opacity=".65"/>
+ <path d="M52 475 Q292 555 532 475 L532 535 Q292 620 52 535 Z" fill="url(#rim)" stroke="#527a67" stroke-width="3"/>
+ <ellipse cx="292" cy="475" rx="240" ry="72" fill="#234b3a" stroke="#527a67" stroke-width="3"/>
+ <!-- wound filament cylinder -->
+ <path d="M92 205 Q292 265 492 205 L492 475 Q292 550 92 475 Z" fill="url(#filament)" stroke="#a8d957" stroke-width="2"/>
+ <path d="M92 205 Q292 265 492 205 L492 475 Q292 550 92 475 Z" fill="url(#coil)" opacity=".95"/>
+ <ellipse cx="292" cy="205" rx="200" ry="61" fill="#d6fb77" stroke="#e7ffab" stroke-width="3"/>
+ <ellipse cx="292" cy="205" rx="200" ry="61" fill="url(#coil)" opacity=".6"/>
+ <!-- upper flange -->
+ <path d="M48 180 Q292 95 536 180 L536 220 Q292 305 48 220 Z" fill="url(#rim)" stroke="#527a67" stroke-width="3"/>
+ <ellipse cx="292" cy="180" rx="244" ry="82" fill="#315b49" stroke="#739781" stroke-width="3"/>
+ <ellipse cx="292" cy="180" rx="125" ry="42" fill="#0a261e" stroke="#779a83" stroke-width="3"/>
+ <ellipse cx="292" cy="180" rx="92" ry="29" fill="#061e17" stroke="#416b55" stroke-width="2"/>
+ <!-- rim highlights -->
+ <path d="M76 166 Q292 95 508 166" fill="none" stroke="#8eae98" stroke-opacity=".35" stroke-width="3"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" fill="#9fb6a5" font-size="12" letter-spacing="2">
+ <text x="1260" y="845">CONCEPT ILLUSTRATION</text>
+</g>
+<path d="M78 875 H1520" stroke="#315344" stroke-width="1"/>
+<text x="80" y="895" fill="#8ba797" font-family="Arial" font-size="12" font-weight="700">ReForm</text>
+<text x="205" y="895" fill="#8ba797" font-family="Arial" font-size="11" letter-spacing="2">AI FOR CLIMATE  /  CIRCULAR ECONOMY</text>
+<text x="1508" y="895" fill="#c9f36a" font-family="Arial" font-size="15" font-weight="700" text-anchor="end">01</text>
+</svg>
